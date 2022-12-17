@@ -63,14 +63,7 @@ def generate():
 
     drawData(data, [BLUE for x in range(len(data))])
 
-
-# def set_speed():
-#     if speed_menu.get() == 'Slow':
-#         return 0.03
-#     elif speed_menu.get() == 'Medium':
-#         return 0.01
-#     else:
-#         return 0.0000000000001
+ # select the algorithm and triggerd it
 
 
 def sort():
